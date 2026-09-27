@@ -1,0 +1,7 @@
+.exercise { padding: 22px; margin: 22px 0; background: white; border: 1px solid #d9e1ec; border-radius: 12px; }
+.exercise h2 { font-size: 1.3rem; margin-bottom: 18px; }
+.stack { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
+.drag-item { cursor: grab; padding: 12px; margin: 8px 0; border: 1px solid #b7c4d5; border-radius: 6px; background: #f5f8ff; }
+.error-text { color: #bd2020; }
+.dish-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 16px; }
+.dish-image { height: 150px; object-fit: cover; width: 100%; }
