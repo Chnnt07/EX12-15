@@ -1,4 +1,3 @@
-import React from "react";
 import { ThemeProvider } from "./ThemeContext";
 import Theme from "./Theme";
 import { CartProvider } from "./CartContext";

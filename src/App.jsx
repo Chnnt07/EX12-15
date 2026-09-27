@@ -1,5 +1,4 @@
-import React from "react";
-import { useState } from "react";
+import React, { useState } from "react";
 import { Container, Nav, Navbar } from "react-bootstrap";
 import EX12 from "./EX12/EX12";
 import EX13 from "./EX13/EX13";

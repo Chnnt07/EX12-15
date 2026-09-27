@@ -1,4 +1,3 @@
-import React from "react";
 import UserPosts from "./UserPosts";
 import CountdownTimer from "./CountdownTimer";
 import WindowSize from "./WindowSize";
